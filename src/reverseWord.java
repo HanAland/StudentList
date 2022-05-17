@@ -16,8 +16,8 @@ public class reverseWord {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        char[]  myWord = new char[7];
+   /* public static void main(String[] args) {
+        /*char[]  myWord = new char[7];
         myWord[0]='s';
         myWord[1]='t';
         myWord[2]='u';
@@ -34,8 +34,8 @@ public class reverseWord {
             for(int i = myWord.length-1;i>=0;i--)
         {
             System.out.print(myWord[i]);
-        }
-        Scanner sc = new Scanner(System.in);
+        }*/
+       /* Scanner sc = new Scanner(System.in);
         System.out.println("Please enter a word");
         String word =sc.nextLine();
         char[] myLetters = new char[word.length()];
@@ -50,6 +50,6 @@ public class reverseWord {
         {
             System.out.print(myLetters[i]);
         }
-    }
+    }*/
     
 }
