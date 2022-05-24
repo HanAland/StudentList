@@ -9,6 +9,9 @@ package studentlist;
  *
  * @author Ronak
  */
+
+//added comments for pull operation
+
 public class Student {
     
     private String studentId;
