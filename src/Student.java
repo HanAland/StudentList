@@ -12,6 +12,8 @@ package studentlist;
 
 //added comments for pull operation
 
+//add comments here for fetch and merge
+
 public class Student {
     
     private String studentId;
